@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+It adds a .git document to the folder where all history data will be saved. But it wont create automatically a commit because you have to name every commit with a small name wich cant be done automatically.
