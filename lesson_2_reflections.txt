@@ -6,3 +6,5 @@ What are some situations when branches would be helpful in keeping your history 
 Normally a new commit will always directly go to the master branch wich is default. But with creating a new branch you are able to create a "new version" which does not mean a new commit. but i would be useful to create branches for example for a translated version of the software you are writing at. With branches you copy the whole master branch into your knew branch but every change will no be transfered to the master branch.
 How do the diagrams help you visualize the branch structure?
 If you are working in a team it is very immportant to know what the others do and a diagram is one of the easiest ways to show what exists and where.
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+The result is that a new commit which contains both branches exists. Because u can clearly see what happend during the time.
