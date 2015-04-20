@@ -1,0 +1,12 @@
+What happens when you initialize a repository? Why do you need to do it?
+It adds a .git document to the folder where all history data will be saved. But it wont create automatically a commit because you have to name every commit with a small name wich cant be done automatically.
+How can you use the staging area to make sure you have one commit per logical change?
+The staging area gives you te possibility to write more than one one logical change and separate them into 2 diffrent commits while adding them after another to the staging area and commit them.
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Normally a new commit will always directly go to the master branch wich is default. But with creating a new branch you are able to create a "new version" which does not mean a new commit. but i would be useful to create branches for example for a translated version of the software you are writing at. With branches you copy the whole master branch into your knew branch but every change will no be transfered to the master branch.
+How do the diagrams help you visualize the branch structure?
+If you are working in a team it is very immportant to know what the others do and a diagram is one of the easiest ways to show what exists and where.
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+The result is that a new commit which contains both branches exists. Because u can clearly see what happend during the time.
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+pros: it is a lot faster, it is less work, if it works the software will work too	contras: it takes a lot of time to go trough all the code.
