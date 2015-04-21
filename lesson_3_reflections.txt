@@ -4,3 +4,5 @@ Why might you want to always pull changes manually rather than having Git automa
 because you maybe dont want to be disturbed by any other changes to your project.
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 Forks are good if you want to copy anything on GitHub and also want to have a Repo of it at GitHub. Clones are good if you want to have a repo only on your computer and dont want to share it with others. Branches are in my opinion a complet diffrent thing because they could be part of both (forl and clone).
+What is the benefit of having a copy of the last known state of the remote stored locally?
+It is good to have it on your own computer if you will get in a plane and dont want to lose the whole time of sitting in there because you had no acces to the internet.
