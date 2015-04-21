@@ -8,3 +8,5 @@ What is the benefit of having a copy of the last known state of the remote store
 It is good to have it on your own computer if you will get in a plane and dont want to lose the whole time of sitting in there because you had no acces to the internet.
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 With GitHub because it is easier to stay in contact with others and you dont have to write as many text
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+Making changes in a separate branch has the befefit to be sure that nothing can be destroyed. But while doing all changes in one branch you never have to merge two branches.
